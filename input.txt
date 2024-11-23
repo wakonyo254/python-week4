@@ -1,0 +1,5 @@
+Hello, my name is Winnie. I am a python student at PLP Africa.
+I am currently in week four of python learning.
+Python has a diverse field of specialization.
+Classes are due on {wednesday and thursday}.
+I enjoy learning python
